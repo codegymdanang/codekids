@@ -1,5 +1,5 @@
 ---
 layout: home
 title: Trang Chu
-permalink: /
+permalink: /index/
 ---
