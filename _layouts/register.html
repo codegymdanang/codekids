@@ -30,11 +30,7 @@
     <!-- Customized Bootstrap Stylesheet -->
     <link rel="stylesheet" href='{{ "/css/style.css" | prepend: site.baseurl }}' >
 
-    <script type="text/javascript">
-            function resizeIframe(obj) {
-                 obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-            }
-    </script>
+
 
 </head>
 
@@ -49,7 +45,9 @@
 
 <div class="embed-responsive embed-responsive-16by9">
 
-<iframe class="embed-responsive-item" sandbox="allow-same-origin" src="https://docs.google.com/forms/d/e/1FAIpQLSemPcgbENd4FfmjvSeY01ZabMLvOslwBeDbNL5FkPt6LBFe2w/viewform?embedded=true" width="640"  frameborder="0" marginheight="0" marginwidth="0" onload="resizeIframe(this)" >Loading…</iframe>
+<iframe class="embed-responsive-item"  src="https://docs.google.com/forms/d/e/1FAIpQLSemPcgbENd4FfmjvSeY01ZabMLvOslwBeDbNL5FkPt6LBFe2w/viewform?embedded=true" width="640"  frameborder="0" marginheight="0" marginwidth="0" 
+ sandbox="allow-same-origin" onload="this.style.height=(this.contentWindow.document.documentElement.scrollHeight)+'px';"
+ >Loading…</iframe>
 
 </div>
 
