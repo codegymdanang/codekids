@@ -6357,6 +6357,7 @@ a.close.disabled {
 
 .bg-primary {
   background-color: #17a2b8 !important;
+  background-image: url("./images/CodeKids.png");;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
