@@ -6355,12 +6355,16 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
-.bg-primary {
+.bg-primary-banner {
 
   background-image: url("../images/CodeKids.png");
   height: 400px;
   background-repeat: no-repeat;
   background-size: 100% 100%;
+}
+
+.bg-primary {
+  background-color: #17a2b8 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
