@@ -37,91 +37,43 @@
 {% include header.html %}
 
 
+
 <!-- Gallery Start -->
-    <div class="container-fluid pt-5 pb-3">
-        <div class="container">
-            <div class="text-center pb-2">
-                <p class="section-title px-5"><span class="px-2">Thư Viện Ảnh</span></p>
-                <h1 class="mb-4">Ảnh CodeKids</h1>
-            </div>
-            <div class="row">
-                <div class="col-12 text-center mb-2">
-                    <ul class="list-inline mb-4" id="portfolio-flters">
-                        <li class="btn btn-outline-primary m-1 active"  data-filter="*">All</li>
-                        <li class="btn btn-outline-primary m-1" data-filter=".first">Playing</li>
-                        <li class="btn btn-outline-primary m-1" data-filter=".second">Drawing</li>
-                        <li class="btn btn-outline-primary m-1" data-filter=".third">Reading</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="row portfolio-container">
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="{{'/images/portfolio-1.jpg' | prepend: site.baseurl }}" alt="">
-                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="{{'/images/portfolio-1.jpg' | prepend: site.baseurl }}" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
-                            </a>
+<div class="container-fluid pt-5">
+    <div class="container">
+        <div class="text-center pb-2">
+            <p class="section-title px-5"><span class="px-2">Thư Viện Ảnh</span></p>
+            <h1 class="mb-4">Bản tin nội bộ</h1>
+        </div>
+        <div class="row pb-3">
+
+            {% assign sorted = site.categories.blog | reverse %}
+            {% for post in  sorted %}
+               
+            <div class="col-lg-4 mb-4">
+                <div class="card border-0 shadow-sm mb-2">
+                    <img class="card-img-top mb-2" src="{{ post.featureImage }}">
+                    <div class="card-body bg-light text-center p-4">
+                        <h4 class="">{{post.title}}</h4>
+                        <div class="d-flex justify-content-center mb-3">
+                            <small class="mr-3"><i class="fa fa-user text-primary"></i> Admin</small>
+                            <small class="mr-3"><i class="fa fa-folder text-primary"></i> Web Design</small>
+                            <small class="mr-3"><i class="fa fa-comments text-primary"></i> 15</small>
                         </div>
+                        <p> {{post.description}} </p>
+                        <a href='{{post.url}}' class="btn btn-primary px-4 mx-auto my-2">Đọc thêm</a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="{{'/images/portfolio-2.jpg' | prepend: site.baseurl }}" alt="">
-                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="{{'/images/portfolio-2.jpg' | prepend: site.baseurl }}" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="{{'/images/portfolio-3.jpg' | prepend: site.baseurl }}" alt="">
-                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="{{'/images/portfolio-3.jpg' | prepend: site.baseurl }}" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="{{'/images/portfolio-4.jpg' | prepend: site.baseurl }}" alt="">
-                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="{{'/images/portfolio-4.jpg' | prepend: site.baseurl }}" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="{{'/images/portfolio-5.jpg' | prepend: site.baseurl }}" alt="">
-                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="{{'/images/portfolio-5.jpg' | prepend: site.baseurl }}" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid w-100" src="{{'/images/portfolio-6.jpg' | prepend: site.baseurl }}" alt="">
-                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="{{'/images/portfolio-6.jpg' | prepend: site.baseurl }}" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            </div>      
+               
+            {% endfor %}
+
+              
+
+        </div>
     </div>
-    <!-- Gallery End -->
-
-
-   
-
+</div>
+<!-- Blog End -->
 
 
 <!-- Footer Start -->
