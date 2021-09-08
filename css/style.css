@@ -6364,17 +6364,17 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #17a2b8 !important;
+  background-color: #f00 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #117a8b !important;
+  background-color: #f00 !important;
 }
 
 .bg-secondary {
-  background-color: #00394f !important;
+  background-color: #f00 !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
