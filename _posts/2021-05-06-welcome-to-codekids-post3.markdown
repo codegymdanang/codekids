@@ -11,7 +11,7 @@ Chương trình CodeKids K5 giúp học viên làm chủ các kiến thức và 
 
 
 HOÀN THÀNH KHÓA HỌC HỌC VIÊN CÓ THỂ ĐẠT ĐƯỢC:	
-Kỹ năng chuyên môn
+Kỹ năng chuyên môn.
 
 Sử dụng thành thạo phần mềm lập trình
 Làm chủ được các kỹ thuật lập trình 
