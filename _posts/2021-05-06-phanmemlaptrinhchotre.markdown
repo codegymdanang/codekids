@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Phần mềm lập trình cho trẻ"
+title:  "Phần mềm lập trình hay dành cho trẻ"
 date:   2021-05-04 18:05:52 +0700
 categories: blog
 featureImage: /images/blogs/phan-mem-lap-trinh-cho-tre-em.jpg
