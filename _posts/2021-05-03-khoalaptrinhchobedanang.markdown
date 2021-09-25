@@ -4,14 +4,14 @@ title:  "Khóa học lập trình Scratch tại Đà Nẵng"
 date:   2021-05-04 18:05:52 +0700
 categories: blog
 featureImage: /images/blogs/khoa-hoc-lap-trinh-scratch-o-da-nang.jpg
-description: Khóa học lập trình Scratch cho trẻ tại Đà Nẵng
+description: lập trình cho bé đà nẵng, lập trình scratch cho bé, dạy lập trình cho bé, lập trình cho trẻ tiểu học, học lập trình tại Đà Nẵng
 ---
 
 Nhận thức được tầm quan trọng của lập trình mang lại cho trẻ em. Hiện nay nhiều bậc phụ huynh đã dần tìm hiểu và cho con học lập trình từ sớm, đặc biệt là tại các thành phố lớn như Hà Nội, Hồ Chí Minh, và Đà Nẵng. 
 
-Tuy nhiên để đảm bảo việc học lập trình cho bé được chất lượng thì không phải bất kỳ khóa học lập trình nào cũng mang lại hiệu quả thật sự cho bé.Vì vậy các bố mẹ cần nghiên cứu kỹ để lựa chọn được khóa học lập trình Scratch phù hợp cho con.
+Tuy nhiên để đảm bảo việc học lập trình cho bé được chất lượng thì không phải bất kỳ khóa học lập trình nào cũng mang lại hiệu quả thật sự cho bé.Vì vậy các bố mẹ cần nghiên cứu kỹ để lựa chọn được <b>khóa học lập trình Scratch phù hợp cho con</b>.
 
-Trong phạm vi bài viết này, CodeKids sẽ giới thiệu để các bố mẹ hiểu được lập trình Scratch là gì? Học lập trình Scratch thì làm được những gì? Ai thì nên theo học ngôn ngữ lập trình Scratch. Đặc biệt, ở những phần cuối của bài viết, CodeKids sẽ “bật mí” cho các bố mẹ một số khóa học lập trình Scratch cho bé ở Đà Nẵng.
+Trong phạm vi bài viết này, CodeKids sẽ giới thiệu để các bố mẹ hiểu được lập trình Scratch là gì? Học lập trình Scratch thì làm được những gì? Ai thì nên theo học ngôn ngữ lập trình Scratch. Đặc biệt, ở những phần cuối của bài viết, CodeKids sẽ “bật mí” cho các bố mẹ một số <b>khóa học lập trình Scratch cho bé ở Đà Nẵng</b>.
 
 ## **Học lập trình Scratch là học gì?**
 
