@@ -4,12 +4,12 @@ title:  "Trẻ em nên học ngôn ngữ lập trình nào!"
 date:   2021-05-04 18:05:52 +0700
 categories: blog
 featureImage: /images/blogs/tre-em-nen-hoc-ngon-ngu-lap-trinh-gi.jpg
-description: Trẻ em nên học ngôn ngữ lập trình nào
+description: Lập trình cho trẻ tiểu học, Dạy lập trình cho học sinh tiểu học, Ngôn ngữ lập trình Scratch, Trẻ học lập trình, Khóa học lập trình cho trẻ em, Học lập trình cho trẻ em online, lập trình python cho trẻ em, học lập trình python cho trẻ em,lập trình cho trẻ em online,dạy trẻ em lập trình. 
 ---
 
 Bạn hiểu được tầm quan trọng của việc học lập trình đối với trẻ em. Tuy nhiên giữa “rừng” ngôn ngữ lập trình mà bạn search trên mạng, bạn cảm thấy phân vân không biết nên chọn ngôn ngữ lập trình nào thì phù hợp cho bé. 
 
-Vậy thì bài viết này chính xác là dành cho bạn rồi đấy. Hôm nay CodeKids sẽ giúp bạn tìm hiểu một số ngôn ngữ lập trình phổ biến cho trẻ em nhé!
+Vậy thì bài viết này chính xác là dành cho bạn rồi đấy. Hôm nay CodeKids sẽ giúp bạn tìm hiểu một số <b>ngôn ngữ lập trình phổ biến cho trẻ em nhé</b>!
 
 
 ## **Ngôn ngữ lập trình là gì?**
