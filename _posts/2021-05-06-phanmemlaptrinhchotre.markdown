@@ -4,14 +4,15 @@ title:  "Phần mềm lập trình cho trẻ"
 date:   2021-05-04 18:05:52 +0700
 categories: blog
 featureImage: /images/blogs/phan-mem-lap-trinh-cho-tre-em.jpg
-description: Phần mềm lập trình cho trẻ
+description: Phần mềm lập trình cho trẻ em, phần mềm lập trình cho bé, phần mềm lập trình game cho trẻ em, phần mềm học lập trình cho trẻ em,phần mềm lập trình dành cho trẻ em, các phần mềm lập trình cho trẻ em, phần mềm dạy lập trình cho trẻ em.
+
 ---
 
 Lập trình trở thành một trong những kỹ năng đáng mơ ước trong tương lai của các bé. Hiện nay việc tiếp cận và tự học lập trình hiện sẽ trở nên dễ dàng hơn với các phần mềm lập trình miễn phí dành cho trẻ em được chia sẻ rộng rãi trên cộng đồng.
 
 Lập trình không chỉ đơn thuần về kỹ thuật mà ở đó bọn trẻ sẽ được xây dựng tư duy logic và nâng cao sáng tạo. Thông qua các câu đố, trò chơi và vượt qua các thử thách các bé sẽ học được những kỹ năng khác như tính kiên nhẫn, sự bền bỉ và tư duy giải quyết vấn đề.
 
-Dưới đây CodeKids giới thiệu đến bạn và các bé những phần mềm lập trình phổ biến và thân thiện với trẻ em. Với những phần mềm này các bé sẽ được bước đi những bước đầu tiên vào thế giới mã hoá, thế giới lập trình. Muôn vàn điều thú vị đợi để các bé cùng khám phá, còn chần chừ gì không bước chân nhành vào xem thử nhé!
+Dưới đây CodeKids giới thiệu đến bạn và các bé những <b>phần mềm lập trình phổ biến và thân thiện với trẻ em </b>. Với những phần mềm này các bé sẽ được bước đi những bước đầu tiên vào thế giới mã hoá, thế giới lập trình. Muôn vàn điều thú vị đợi để các bé cùng khám phá, còn chần chừ gì không bước chân nhành vào xem thử nhé!
 
  
 ## **Scratch (từ 8 tuổi trở lên)**
