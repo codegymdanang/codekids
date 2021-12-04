@@ -476,7 +476,7 @@
         </div>
         <div class="row pb-3">
 
-            {% assign sorted = site.categories.blog | reverse %}
+            {% assign sorted = site.categories.blog limit:3 | reverse %}
             {% for post in  sorted %}
                
             <div class="col-lg-4 mb-4">
