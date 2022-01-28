@@ -6,7 +6,7 @@ categories: blog
 featureImage: /images/blogs/co-nen-cho-tre-hoc-lap-trinh-tu-som-khong.jpg
 description: có nên cho trẻ học lập trình sớm,có nên cho con học lập trình,cho trẻ học lập trình ở đâu,có nên cho bé học sớm,cho con học lập trình ở đâu,học lập trình cho trẻ em online,
 chương trình lập trình cho trẻ em,dạy lập trình cho trẻ,dạy lập trình cho bé,có nên học code,vì sao trẻ em nên học lập trình,học lập trình cho bé,trẻ học lập trình,có nên cho trẻ học sớm,lập trình cho trẻ tiểu học
-             
+
 ---
 
 <b>Có nên cho trẻ học lập trình từ sớm không </b>? Đây là câu hỏi mà mình vẫn thường bắt gặp mỗi khi lướt trong các group của các phụ huynh.

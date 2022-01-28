@@ -8,7 +8,7 @@ description: sách lập trình cho bé, sách dạy lập trình cho trẻ em, 
 sách lập trình c cho người mới bắt đầu, sách lập trình c cơ bản,chương trình lập trình cho trẻ em, giáo trình dạy lập trình cho trẻ,học lập trình cho trẻ em online,
 sách học lập trình cho trẻ em,sách lập trình cơ bản, khóa học lập trình cho bé, sách lập trình căn bản, lập trình cho trẻ em online, mua sách lập trình ở đâu,             
 mua sách lập trình,lập trình cho bé,lập trình viên cho trẻ em, cho bé học lập trình.
-  
+
 ---
 
 Cho <b> trẻ em đọc sách lập trình </b> là một trong những cách khuyến khích con học lập trình hiệu quả. Ngoài những buổi học tại trường hoặc trung tâm, các chuyên gia trong lĩnh vực lập trình cũng khuyến khích các bậc cha mẹ nên cùng trẻ đọc và tìm hiểu thêm những tài liệu về lập trình để có thể nhìn nhận về lợi ích của nó từ nhiều góc độ khác nhau.
