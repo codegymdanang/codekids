@@ -7,7 +7,7 @@ featureImage: /images/blogs/sach-lap-trinh-cho-tre-em-nen-doc.jpg
 description: sách lập trình cho bé, sách dạy lập trình cho trẻ em, sách lập trình tiếng việt,sách lập trình cho người mới bắt đầu,khóa học lập trình cho trẻ em laptrinhviet,
 sách lập trình c cho người mới bắt đầu, sách lập trình c cơ bản,chương trình lập trình cho trẻ em, giáo trình dạy lập trình cho trẻ,học lập trình cho trẻ em online,
 sách học lập trình cho trẻ em,sách lập trình cơ bản, khóa học lập trình cho bé, sách lập trình căn bản, lập trình cho trẻ em online, mua sách lập trình ở đâu,             
-mua sách lập trình,lập trình cho bé,lập trình viên cho trẻ em, cho bé học lập trình
+mua sách lập trình,lập trình cho bé,lập trình viên cho trẻ em, cho bé học lập trình.
   
 ---
 
