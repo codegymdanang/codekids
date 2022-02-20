@@ -50,7 +50,7 @@ Dẫu biết học lập trình mang lại nhiều lợi ích. Nhưng khi nhắc
 Tuy nhiên trong thời gian dịch bệnh có những diễn biến phức tạp, nhiều ba mẹ đã tìm đến các chương trình học lập trình online cho bé. Vậy các khóa học lập trình trực tuyến dành cho trẻ em có những ưu điểm, nhược điểm gì? Cần lưu ý những gì để con có những giờ học online tại nhà an toàn mà vẫn đảm bảo được tính hiệu quả? 
 
 
-# ** Ưu điểm của học lập trình Online**
+# **Ưu điểm của học lập trình Online**
 
 – Tính tiện lợi cao : Chỉ cần có kết nối internet, bé đã có thể dễ dàng truy cập vào các ứng dụng học trực tuyến. Hay những ứng dụng kết nối với thầy cô, bạn bè để tham gia lớp học như ở trường lớp truyền thống. Do không yêu cầu địa điểm học tập, bé có thể sắp xếp lịch học linh động, phù hợp với thời gian biểu cá nhân. Vì thế, đây là giải pháp học lập trình đặc biệt thích hợp trong thời gian đặc biệt như dịch bệnh, thời tiết khắc nghiệt,...
 
@@ -62,7 +62,7 @@ Tuy nhiên trong thời gian dịch bệnh có những diễn biến phức tạ
 
 – Cho con làm quen với công nghệ :Hầu hết các bạn nhỏ ngày nay đã không còn xa lạ gì với những thiết bị công nghệ như máy chơi game, tivi,.... Tuy nhiên, các nền tảng kết nối hay những ứng dụng học tập thì có những tính năng, cách thao tác khác với các ứng dụng giải trí. Việc con học và sử dụng thành thạo những phần mềm này rất hữu ích cho các con. Giúp con tự nghiên cứu, hỗ trợ thêm cho quá trình học tập trên trường và việc làm sau này.
 
-# ** Nhược điểm của học lập trình Online**
+# **Nhược điểm của học lập trình Online**
 
 – Ngồi học nhiều trước máy tính có hại cho mắt : Theo các chuyên gia, thời gian tiếp xúc trước máy tính quá 7h/ ngày có thể gây hại cho đôi mắt của trẻ. Việc ngồi một tư thế trước màn hình máy tính cũng không tốt cho xương khớp của con. 
 Để con không phải ngồi quá lâu trước màn hình máy tính. Ba mẹ có thể lựa chọn các lớp học có thời lượng ngắn. Các lớp thường kéo dài từ 45 đến 60 phút. Hoặc được thiết kế với các giờ giải lao cho con thay đổi tư thế, thư giãn cho đôi mắt.
