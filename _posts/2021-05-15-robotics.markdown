@@ -1,0 +1,150 @@
+---
+layout: post
+title:  "Robotic là gì "
+date:   2021-05-04 18:05:52 +0700
+categories: blog
+featureImage: /images/blogs/robotics-la-gi.png
+description: robotics nghĩa là gì,học lập trình robot cho bé,Có nên cho trẻ học robotics không,Robot trí nhân
+
+---
+
+# **Robotics Là Gì? Có nên cho trẻ em học Robotics từ sớm không?**
+
+Hiện nay cùng với sự phát triển của ngành khoa học công nghệ. Robotics dần trở thành lĩnh vực phổ biến và đang nhận được nhiều sự quan tâm. 
+
+Vậy <b> Robotics là gì? Liệu có nên cho trẻ em học Robotics từ sớm không </b>? Hiện nay vì độ “hot” của lĩnh vực Robotics mà nhiều phụ huynh cho con học theo số đông. Thậm chí nhiều người không hiểu nó là gì và có thật sự phù hợp, mang lại lợi ích cho con mình như thế nào. 
+
+
+{:refdef: style="text-align: center;"}
+![Vì sao trẻ em nên học lập trình  ](/images/blogs/robotics-la-gi.png){:class="img-responsive"}
+{: refdef}
+
+# **Robotics là gì?**
+
+Robotics là một lĩnh vực gồm sự giao thoa của khoa học, kỹ thuật và công nghệ. Nó có nhiệm vụ nghiên cứu, thiết kế và tạo ra máy móc được gọi là người máy (robot). Chúng nhằm mục đích phục vụ cho cuộc sống hiện đại của con người.
+
+# **Đặc điểm của Robot**
+
+Trước đây, quan niệm về robot có phần giới hạn hơn. Vào năm 2005, 90% tổng số robot có thể được tìm thấy lắp ráp ô tô trong các nhà máy sản xuất ô tô. Những robot này chủ yếu bao gồm các cánh tay cơ khí có nhiệm vụ hàn hoặc vặn các bộ phận nhất định của ô tô. Ngày nay, robot được phát triển và mở rộng hơn rất nhiều. Nó có thể bao gồm cả việc phát triển, tạo ra và sử dụng các rô bốt khám phá các điều kiện khắc nghiệt nhất của Trái đất. Hay thậm chí là rô bốt hỗ trợ hầu hết các lĩnh vực chăm sóc sức khỏe .   
+
+Nhìn chung các loại Robot đều có một số đặc điểm sau:
+
+- Tất cả các robot đều bao gồm một số loại cấu tạo cơ khí. Khía cạnh cơ học của robot giúp nó hoàn thành các nhiệm vụ trong môi trường mà nó được thiết kế. Ví dụ, bánh xe của Mars 2020 Rover được cơ giới hóa riêng và làm bằng ống titan giúp nó bám chắc trên các địa hình khắc nghiệt của hành tinh đỏ.
+
+- Robot cần một nguồn năng lượng để điều khiển và cung cấp năng lượng cho máy móc. Ví dụ như một dòng điện (pin) là nguồn năng lượng được sử dụng phổ biến cho robot hoạt động.
+
+- Robot có ít nhất một số cấp độ lập trình máy tính. Nếu không được lập trình cho nó biết phải làm gì, robot sẽ chỉ là một thiết bị máy móc đơn giản. Vì vậy nếu được lập trình để chèn một chương trình vào robot sẽ giúp nó có khả năng thực hiện một nhiệm vụ nào đó.
+
+# **Các loại Robot phổ biến hiện nay**
+
+Có đa dạng các loại Robot. Chúng khác nhau về hình dạng, kích thước và chức năng để thực hiện hiệu quả những nhiệm vụ.
+
+Tuy nhiên nhìn chung có 5 loại rô bốt phổ biến sau:
+
+- Robot được lập trình sẵn
+
+{:refdef: style="text-align: center;"}
+![Vì sao trẻ em nên học lập trình  ](/images/blogs/robotics-1-laptrinhsan.jpg){:class="img-responsive"}
+{: refdef}
+
+Các robot được lập trình sẵn là loại robot được thiết kế để hoạt động trong một môi trường được kiểm soát cụ thể nào đó. Đối với loại robot này thông thường chúng chỉ thực hiện các nhiệm vụ đơn giản. 
+
+Ví dụ về robot được lập trình sẵn phổ biến nhất đó là một cánh tay cơ khí trên dây chuyền lắp ráp ô tô. Cánh tay phục vụ một chức năng nào đó như hàn cửa, lắp một bộ phận nào đó vào động cơ, v.v…
+
+Việc ứng dụng robot được lập trình sẵn này sẽ giúp công việc nhanh hơn và hiệu quả hơn con người.
+
+- Robot hình người
+
+{:refdef: style="text-align: center;"}
+![Vì sao trẻ em nên học lập trình  ](/images/blogs/robotics-2-hinhnguoi.jpg){:class="img-responsive"}
+{: refdef}
+
+Robot hình người là những robot trông giống hoặc bắt chước hành vi của con người. Những robot này thường thực hiện các hoạt động giống như con người (như chạy, nhảy và mang đồ vật). Thậm chí, với công nghệ ngày càng hiện đại. Người ta đã chế tạo ra những robot có có khuôn mặt và biểu cảm gần giống với con người. Hai trong số những ví dụ nổi bật nhất về robot hình người là Sophia của Hanson Robotics (trong video trên) và Atlas của Boston Dynamics. Và gần đây nhất đó chính là robot do chính Việt Nam sáng tạo mang tên Trí Nhân được báo chí đề cấp đến gần đây rất nhiều.
+
+- Robot tự hành
+
+{:refdef: style="text-align: center;"}
+![Vì sao trẻ em nên học lập trình  ](/images/blogs/robotics-3-tuthuchanh.jpg){:class="img-responsive"}
+{: refdef}
+
+Robot tự hành hoạt động độc lập với người điều khiển. Những robot này thường được thiết kế để thực hiện các nhiệm vụ trong môi trường mở không cần sự giám sát của con người. 
+
+Loại robot này sử dụng cảm biến để nhận thức thế giới xung quanh. Sau đó sử dụng cấu trúc ra quyết định (thường là máy tính) để đưa ra cách giải quyết dựa trên dữ liệu.
+
+Một ví dụ về robot tự động sẽ là máy hút bụi Roomba, sử dụng các cảm biến để di chuyển tự do trong nhà. Hay các robot cắt cỏ, trợ lý y tế,...
+
+- Robot điều khiển từ xa
+
+{:refdef: style="text-align: center;"}
+![Vì sao trẻ em nên học lập trình  ](/images/blogs/robotics-4-dieukientuxa.jpg){:class="img-responsive"}
+{: refdef}
+
+Robot điều khiển từ xa là những robot bán tự động sử dụng mạng không dây để cho phép con người điều khiển từ một khoảng cách an toàn. Những robot này thường hoạt động trong các điều kiện địa lý, thời tiết, hoàn cảnh khắc nghiệt, v.v. 
+
+Ví dụ về robot điều khiển từ xa là tàu ngầm do con người điều khiển được sử dụng để khắc phục sự cố rò rỉ đường ống dưới nước trong sự cố tràn dầu. Hay máy bay không người lái được sử dụng để dò mìn trên chiến trường.
+
+- Robot tăng cường 
+
+{:refdef: style="text-align: center;"}
+![Vì sao trẻ em nên học lập trình  ](/images/blogs/robotics-5-tangcuong.jpg){:class="img-responsive"}
+{: refdef}
+
+Robot tăng cường hay robot bổ sung là những robot được thiết kế với các nhiệm vụ vượt năng lực của con người. Để dễ hiểu mình sẽ lấy một ví dụ về loại robot này cho bạn nhé. Đó chính là chân tay giả hoặc bộ xương ngoài robot được sử dụng để nâng vật nặng.
+
+Lưu ý: Phần mềm rô bốt có được coi là rô bốt không?
+Robot phần mềm là một loại chương trình máy tính phong phú thực hiện các tác vụ một cách tự chủ, chẳng hạn như một chatbot hoặc một trình thu thập thông tin web. Tuy nhiên, vì rô bốt phần mềm chỉ tồn tại trên internet và có nguồn gốc bên trong máy tính nên chúng không được coi là rô bốt. Để được coi là một rô bốt, một thiết bị phải có hình thức vật lý, chẳng hạn như cơ thể hoặc khung.
+
+# **Ứng dụng của Robotics**
+
+Hiện nay Robot được ứng dụng trong rất nhiều lĩnh vực. Thậm chí sẽ chẳng bao lâu nữa, chúng ta sẽ thấy robot hầu như ở khắp mọi nơi. Chúng ta sẽ thấy chúng trong bệnh viện, trong khách sạn và thậm chí trên đường của chúng ta. 
+
+- Giúp chữa cháy rừng
+- Làm việc cùng với con người trong các nhà máy sản xuất
+- Robot hỗ trợ trong chăm sóc sức khỏe cũng như như một người bạn đối với những người cao tuổi
+- Trợ lý phẫu thuật
+- Robot gia dụng tự động thực hiện các công việc như hút bụi và cắt cỏ
+- Được sử dụng trong các nhiệm vụ tìm kiếm cứu nạn sau thiên tai
+- Máy dò mìn trong vùng chiến sự
+
+Trong thực tế robot còn được ứng dụng trong nhiều lĩnh vực khác nữa. Tuy nhiên trong bài viết này mình chỉ liệt kê một số ứng dụng điển hình nhất cho bạn tham khảo. Có thể mình sẽ dành riêng hẳn một bài để chỉ chia sẻ về những ứng dụng của robot để chi tiết hơn.
+
+# **Có nên cho trẻ học Robotics từ sớm không?**
+
+Lập trình Robots được coi là một môn học hấp dẫn, tương lai và đang được phát triển nhanh chóng trên toàn thế giới. Đến nỗi hiện nó đã được giảng dạy trong một số trường học từ tiểu học đến trung học ở các nước như Anh, Mỹ, Úc, Canada, Phần Lan, Hàn Quốc, Nhật Bản Bản, Singapore và Trung Quốc. 
+
+Vậy vì sao nó lại xứng đáng để học và nhận được nhiều hơn sự quan tâm từ các quý phụ huynh và học sinh?
+
+Dưới đây là 8 lý do tại sao mọi đứa trẻ nên học Robotics từ khi còn nhỏ:
+
+- Công nghệ người máy nâng cao khả năng sáng tạo và giải quyết vấn đề
+
+Robotics là một không gian mà trẻ em được tự do thể hiện bản thân và kích hoạt không gian sáng tạo của chúng. Trẻ em thích tham gia vào các hoạt động khiến chúng cảm thấy mình đang kiểm soát sự sáng tạo. 
+
+Chế tạo hoặc lắp ráp một con robot không đơn giản như nó vẫn tưởng. Trẻ em phải đối mặt với những thử thách không thể đoán trước và vượt qua những thử thách này bằng cách thử lại và làm việc chăm chỉ. Từ đó, trẻ em học các kỹ năng mới như giải quyết vấn đề. 
+
+- Giúp trẻ cải thiện sự tự tin
+Hãy tưởng tượng bạn đang chế tạo một cỗ máy khi mới 9 tuổi hoạt động theo lệnh và hướng dẫn của bạn. Điều đó sẽ tuyệt vời và khiến bạn tự hào biết bao. Lắp ráp robot cũng như bất kỳ một kỹ năng nào. Khi con bạn sở hữu được kỹ năng này bọn sẽ tăng cường sự tự tin và lòng tự trọng của chúng. 
+
+Nếu trẻ em sớm được tìm hiểu và thực hành robot ngay từ nhỏ nó cũng tạo động lực và là bước đệm vững chắc để chúng phát triển hơn nữa trong thời đại công nghệ .
+
+- Dễ dàng tìm kiếm việc làm trong tương lai 
+
+Có 12 triệu đơn vị robot trên toàn thế giới vào năm 2020 và con số này sẽ tiếp tục tăng lên. Học chế tạo robot giúp trẻ em có được một bộ kỹ năng được trang bị cho thị trường việc làm trong tương lai. Họ cũng phát triển năng khiếu giúp họ không chỉ trong nỗ lực nghề nghiệp mà còn trong cuộc sống hàng ngày. 
+Thế kỷ 21 đòi hỏi trẻ em phải vượt qua trọng lượng của chúng và chuẩn bị cho sự tiến bộ của công nghệ.
+
+# **Robotics mở đường cho lập trình**
+
+Trí tuệ nhân tạo (AI) đã trở thành một phần không thể thiếu trong cuộc sống hàng ngày của chúng ta. Chúng ta bắt gặp các máy móc và sản phẩm AI trong gia đình, văn phòng và hầu hết mọi nơi. Robotics giúp trẻ em học những kiến ​​thức cơ bản về lập trình.
+
+Hơn nữa, lập trình là một kỹ năng tuyệt vời để sở hữu về công việc và việc làm trong tương lai. Lập trình là một đôi khi khó dạy cho trẻ em, nhưng người máy giúp chúng hiểu nó dễ dàng hơn. Trẻ em tạo ra các robot vật lý và tự học những gì có thể hoặc không thể làm sai, và cách tạo ra các chỉ dẫn chính xác để làm cho một robot hoạt động.
+
+- Robotics cải thiện làm việc theo nhóm và cộng tác
+
+Vì mục tiêu tạo được một người máy. Do đó, họ cần làm việc cùng nhau một cách hài hòa và tôn trọng những đóng góp của nhau. Họ lắng nghe ý kiến ​​của người khác và đánh giá cao ý kiến ​​của họ.
+Vì vậy tham gia một lớp học chế tạo robot chắc chắn có thể giúp chúng đạt được tinh thần hợp tác. 
+
+# **Kết luận**
+
+Cùng với sự phát triển vượt bậc của trí tuệ nhân tạo (AI). Robotics trở thành lĩnh vực được chú trọng phát triển trong thời gian gần đây. Trong tương lai gần thôi, những tiến bộ trong lĩnh vực công nghệ. Ngành Robotics sẽ còn phát triển mạnh hơn gấp nhiều lần nữa. Và đó chính là cơ hội và sân chơi lớn cho con bạn thỏa sức sáng tạo và bứt phá bản thân.
+
+Hy vọng với những chia sẻ trên bạn đã hiểu rõ được Robotics là gì? Và thấy được những lợi ích to lớn mà lĩnh vực này mang lại cho sự phát triển của con bạn. 
