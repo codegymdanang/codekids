@@ -3,13 +3,13 @@ layout: post
 title:  "Lập trình Scratch là gì"
 date:   2021-05-04 18:05:52 +0700
 categories: blog
-featureImage: /images/blogs/bai1/anhbia.png
+featureImage: /images/blogs/bai1/anhbia.jpg
 description: lập trình scratch 3.0 là gì? Con bạn tiếp cận với ngôn ngữ lập trình Scratch 3.0. Vừa thỏa thích chơi các game bé thích, vừa rèn luyện tư duy mới mẻ cho trẻ trong thời đại công nghệ 4.0 nở rộ. Hãy cùng CodeKids tìm hiểu phần mềm scratch 3.0 là gì
 
 ---
 
 {:refdef: style="text-align: center;"}
-![lập trình scratch là gì  ](/images/blogs/bai1/1.png){:class="img-responsive"}
+![lập trình scratch là gì  ](/images/blogs/bai1/1.jpg){:class="img-responsive"}
 {: refdef}
 
 Với trẻ, “chơi” là: con được làm gì con thích, thoải mái và tự nguyện, không chịu bất kỳ sức ép nào. Nhưng các ba mẹ lại rất sợ con mê game quên học. Thì hãy vào đây nhé, CodeKids đã có giải pháp tối ưu nhất cho các phụ huynh rồi đây. Đó chính là hãy để con bạn tiếp cận với ngôn ngữ lập trình Scratch 3.0. Vừa thỏa thích chơi các game bé thích, vừa rèn luyện tư duy mới mẻ cho trẻ trong thời đại công nghệ 4.0 nở rộ. Hãy cùng CodeKids tìm hiểu phần mềm scratch 3.0 là gì và  tất tần tật về <b>lập trình Scratch 3.0 này nhé. </b>
