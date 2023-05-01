@@ -8,6 +8,7 @@ description: phương pháp tự học Scratch cực đơn giản tại nhà
 
 ---
 
+
 {:refdef: style="text-align: center;"}
 ![Phương pháp tự học Scratch  ](/images/blogs/bai4/anhbia.jpg){:class="img-responsive"}
 {: refdef}

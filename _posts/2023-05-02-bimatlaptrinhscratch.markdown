@@ -8,6 +8,7 @@ description: lập trình scratch 3.0 là gì? Con bạn tiếp cận với ngô
 
 ---
 
+
 {:refdef: style="text-align: center;"}
 ![lập trình scratch là gì  ](/images/blogs/bai2/anhbia.jpg){:class="img-responsive"}
 {: refdef}

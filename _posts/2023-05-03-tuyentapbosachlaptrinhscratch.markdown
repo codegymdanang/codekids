@@ -9,6 +9,7 @@ giáo án dạy lập trình scratch,giáo trình giảng dạy lập trình scr
 
 ---
 
+
 {:refdef: style="text-align: center;"}
 ![lập trình scratch là gì  ](/images/blogs/bai3/anhbia.jpg){:class="img-responsive"}
 {: refdef}
