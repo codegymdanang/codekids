@@ -25,6 +25,8 @@ paginate_path: /page:num/
 # facebook comment
 fbcomments: yes
 
+kramdown:
+  parse_block_html: true
 
 # Enable plugin in site
 plugins:
