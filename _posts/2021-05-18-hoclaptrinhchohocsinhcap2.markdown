@@ -8,11 +8,9 @@ description: khóa học lập trình cho trẻ em, học lập trình online ch
 
 ---
 
-
 {:refdef: style="text-align: center;"}
 ![Vì sao trẻ em nên học lập trình  ](/images/blogs/khoa-hoc-lap-trinh-cho-hoc-sinh-cap-2.JPG){:class="img-responsive"}
 {: refdef}
-
 
 Hiện nay lập trình đã được đưa vào học trong bộ môn Tin học từ những năm học ở cấp Tiểu học cho đến cấp Trung học cơ sở. Những lợi ích và tầm quan trọng của lập trình đã được đề cập đến rất nhiều. Vì vậy hiện nay ngày càng nhiều phụ huynh và học sinh quan tâm đến bộ môn này.
 
