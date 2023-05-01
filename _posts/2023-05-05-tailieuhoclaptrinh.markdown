@@ -8,6 +8,7 @@ description: Tài liệu học lập trình Scratch cơ bản cho người mới
 
 ---
 
+{% include toc.html %}
 
 {:refdef: style="text-align: center;"}
 ![Phương pháp tự học Scratch  ](/images/blogs/bai5/anhbia.jpg){:class="img-responsive"}
