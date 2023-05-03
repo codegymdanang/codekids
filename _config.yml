@@ -28,6 +28,8 @@ fbcomments: yes
 kramdown:
   parse_block_html: true
 
+markdown: kramdown
+
 # Enable plugin in site
 plugins:
  - jekyll-paginate
