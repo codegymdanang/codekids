@@ -5,6 +5,7 @@ date:   2021-05-04 18:05:52 +0700
 categories: blog
 featureImage: /images/blogs/bai5/anhbia.jpg
 description: Tài liệu học lập trình Scratch cơ bản cho người mới bắt đầu nên học
+toc: true
 
 ---
 
