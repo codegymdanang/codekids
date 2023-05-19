@@ -9904,3 +9904,8 @@ a.text-dark:hover, a.text-dark:focus {
  #toc a:hover {
   color: #9D174D;
  }
+
+ .img-responsive {
+  width: 100%;
+  height: auto;
+ }
