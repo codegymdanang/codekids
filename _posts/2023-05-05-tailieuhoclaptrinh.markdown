@@ -4,10 +4,10 @@ title:  "Tài liệu học lập trình Scratch cơ bản cho người mới b�
 date:   2021-05-04 18:05:52 +0700
 categories: blog
 featureImage: /images/blogs/bai5/anhbia.jpg
-description: Tài liệu học lập trình Scratch cơ bản cho người mới bắt đầu nên học
-toc: true
+description : Tài liệu học lập trình Scratch cơ bản cho người mới bắt đầu nên học
 
 ---
+
 <nav class="toc" markdown="1">
     <input id="ac-toc" name="accordion-toc" type="checkbox" checked/>
     <label for="ac-toc">Nội dung bài viết</label>

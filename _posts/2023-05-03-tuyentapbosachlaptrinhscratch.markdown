@@ -4,8 +4,7 @@ title:  "Tuyển tập bộ giáo trình Scratch hay nhất hiện nay"
 date:   2021-05-04 18:05:52 +0700
 categories: blog
 featureImage: /images/blogs/bai3/anhbia.jpg
-description: tuyển tập bộ giáo trình giảng dạy lập trình scratch, giáo trình scratch ,giáo trình scratch 3.0,
-giáo án dạy lập trình scratch,giáo trình giảng dạy lập trình scratch,giáo án lập trình scratch
+description: tuyển tập bộ giáo trình giảng dạy lập trình scratch.
 
 ---
 
