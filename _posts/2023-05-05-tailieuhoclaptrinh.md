@@ -9,7 +9,14 @@ toc: true
 
 ---
 
-{% include toc.html %}
+<nav class="toc">
+    <input id="ac-toc" name="accordion-toc" type="checkbox" checked/>
+    <label for="ac-toc">Nội dung bài viết</label>
+    <div class="toc__menu" markdown="1">
+    *  Auto generated table of contents
+    {:toc}
+    </div>
+</nav>
 
 {:refdef: style="text-align: center;"}
 ![Phương pháp tự học Scratch  ](/images/blogs/bai5/anhbia.jpg){:class="img-responsive"}
